@@ -1,2 +1,0 @@
-# BaseTraining
-Just BaseTraining
