@@ -45,7 +45,7 @@
                     quia inventore ad quae, harum doloremque?</p>
             </li>
             <li class="main-list-item" >
-                <img src="testImage3.png"" alt="" class=".main-list-img" >
+                <img src="testImage3.png" alt="" class=".main-list-img" >
                 <p class="category">PHOTODIARY</p>
                 <h3 class="main-list-title">Life tastes better with coffee</h3>
                 <p class="main-list-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, possimus. Deleniti nulla at porro
